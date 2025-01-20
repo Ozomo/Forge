@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " P ",
+      "P#P",
+      " P "
+    ],
+    "key": {
+      "P": {
+        "item": "tutorialmod:iron_plate"
+      },
+      "#": {
+          "item": "minecraft:crafting_table"
+      }
+    },
+    "result": {
+      "item": "tutorialmod:auto_crafter"
+    }
+  }
